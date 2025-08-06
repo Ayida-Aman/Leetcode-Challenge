@@ -8,7 +8,7 @@ Welcome to a week of high-stakes grid traversal! This challenge set is designed 
 
 | Day | Problem | Difficulty | Key Concepts |
 |-----|---------|------------|--------------|
-| 1️⃣ | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | Hard | Reverse DP, Min Health Tracking |
+| 1️⃣ | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | DFS | Dual Reachability |
 | 2️⃣ | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | Hard | 3D DP, Dual Traversal |
 | 3️⃣ | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/) | Hard | BFS + Bitmasking |
 | 4️⃣ | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard | Dijkstra, Directional Cost |
