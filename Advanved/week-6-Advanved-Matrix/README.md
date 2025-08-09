@@ -16,8 +16,6 @@ Welcome to a week of high-stakes grid traversal! This challenge set is designed 
 | 6️⃣ | [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/) | Hard | BFS + Sorting + Pathfinding |
 | 7️⃣ | [Escape the Spreading Fire](https://leetcode.com/problems/escape-the-spreading-fire/) | Hard | Binary Search + BFS + Simulation |
 
-> ⚠️ *Although labeled Medium, “Path with Maximum Gold” requires careful DFS and pruning, making it a solid fit for this week’s challenge level.
-
 ---
 
 ## 🧠 Goals
